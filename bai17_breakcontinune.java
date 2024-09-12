@@ -14,7 +14,6 @@ public class bai17_breakcontinune {
         while(n<100){
             n++;
             System.out.println(" n=" +n);
-
             if(n==20)
                 break;
         }
